@@ -18,7 +18,9 @@ Go [here for more details](http://flask.pocoo.org/) on installing and setting up
 
 Once flask and your virtual environment are set up, open the project folder. Run 
 > virtualenv venv
+
 to set up a virtual environment inside the project. Once that is done, activate the virtual environment by running
+
 > . venv/bin/activate
 
 When your virtual environment is up and running, run
