@@ -12,6 +12,7 @@ To set-up and run the site locally, clone the repository to your local environme
 
 You'll need to have flask installed on your machine. Install by running the command:
 > pip install Flask
+
 This command will set up Flask globally i.e your entire pc. I think this can be skipped especially if you won't be using Flask and will only need it for this project.
 Go [here for more details](http://flask.pocoo.org/) on installing and setting up Flask and a virtual environment.
 
@@ -21,7 +22,8 @@ to set up a virtual environment inside the project. Once that is done, activate 
 > . venv/bin/activate
 
 When your virtual environment is up and running, run
-> pip
+> pip install flask
+
 to set up Flask in this virtual environment.
 Once Flask is set up, navigate to baraza-web-app/baraza.
 From here, run
