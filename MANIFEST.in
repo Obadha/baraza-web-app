@@ -1,0 +1,2 @@
+graft baraza/templates
+graft baraza/static
